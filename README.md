@@ -1,6 +1,6 @@
 # Endless Runner – Unity Game 🏰
 
-A tower defense strategy game developed using **Unity**, featuring wave-based enemies and grid-based tower placement.
+An endless runner game developed using Unity, where the player runs forward automatically, dodging incoming stones and floor-attached walls while collecting items to survive and score.
 
 ## ▶️ Gameplay
 - 🎮 Play on itch.io: https://sharkrivel.itch.io/endlessrunner
